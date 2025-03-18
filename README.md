@@ -1,4 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Saif!  
+🎓 Computer Science Student 
+🌱 Currently learning: Back-End "ASP.NET"  
+
+### 🛠️ Skills
+- **Languages**: C++, C#
+- **Technical**: Object-Oriented programming, Data structures, SOLID principles
+
+### 📫 Connect with Me
+- [LinkedIn](www.linkedin.com/in/saif-el-dein-258885304)
+- Email: Saifel.dein01010@gmail.com
+
 
 <!--
 **SaifELDein010/SaifELDein010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
