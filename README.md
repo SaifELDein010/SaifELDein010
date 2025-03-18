@@ -7,7 +7,7 @@
 - **Technical**: Object-Oriented programming, Data structures, SOLID principles
 
 ### 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/saif-el-dein-258885304)
+- LinkedIn: www.linkedin.com/in/saif-el-dein-258885304
 - Email: Saifel.dein01010@gmail.com
 
 
