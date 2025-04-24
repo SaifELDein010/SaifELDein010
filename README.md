@@ -8,7 +8,7 @@
 
 ### 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/saif-el-dein-258885304
-- Email: Saifel.dein01010@gmail.com
+- Email: saifeldeintarek@gmail.com
 
 
 <!--
